@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<?php echo "hello";   dfdfd ?>
+<?php echo "hello"; ?>
 </body>
 </html>
